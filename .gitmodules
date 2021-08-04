@@ -1,0 +1,3 @@
+[submodule "JS"]
+	path = JS
+	url = https://github.com/DKAResearchCenter/DKAJSFramework.git
