@@ -1,0 +1,24 @@
+{
+  "name": "dkajs_sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yovangga Anandhika",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon --watch src --exec babel-node src/index.js",
+    "test": "nodemon --watch src --exec babel-node src/test.js"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.13.16",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-env": "^7.13.15",
+    "crypto-js": "^4.0.0",
+    "nodemon": "^2.0.7",
+    "simple-encryptor": "^4.0.0"
+  },
+  "devDependencies": {
+    "node-tesseract-ocr": "^2.2.1"
+  }
+}
