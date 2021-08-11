@@ -1,23 +1,44 @@
-import DKA, {Functions, Security, Database, Options } from "./../../../JS";
-import tesseract from "node-tesseract-ocr"
+import DKA, {Server, Functions, Security, Database, Options} from "./../../../JS";
+import moment from "moment";
+import Nvr from "hikvision-api";
 
-const config = {
-    lang: "eng",
-    oem: 1,
-    psm: 3,
-}
 
-tesseract
-    .recognize("./image.png", config)
-    .then((text) => {
-        console.log("Result:", text)
-    })
-    .catch((error) => {
-        console.log(error.message)
-    })
+(async() => {
+    new Database.MariaDB({
+        host : "localhost",
+        user : "developer",
+        password : "Cyberhack2010",
+        database : "tes",
+        autoBackup : true,
+    }).Read('test')
+        .then(async (resolve) => {
+            console.log(resolve)
+        })
+        .catch(async (err) => {
+            console.log(err)
+        })
+})()
 
-import cryptoJS from "crypto-js";
 // Create an encryptor:
+
+
+/* new Database.MariaDB({
+     host : "192.168.72.102",
+     user : "developer",
+     password : "Cyberhack2010",
+     database : "dka_parking"
+ }).Create(`parkir-config-data-vehicle_in`, {
+     data : {
+         id_config_child_gate : 2,
+         ticket_number : 2222,
+         status : false
+     }
+ }).then(async(resolve) => {
+     console.log(resolve)
+ }).catch(async(resolve) => {
+     console.log(resolve);
+ })*/
+
 
 /*const printer = new Functions.Hardware.Printer.Escpos()
     .then((resolve) => {

@@ -15,7 +15,11 @@
     "@babel/node": "^7.14.9",
     "@babel/preset-env": "^7.13.15",
     "crypto-js": "^4.0.0",
+    "hikvision-api": "^0.1.52",
+    "moment": "^2.29.1",
+    "node-hikvision-api": "^0.0.2",
     "nodemon": "^2.0.7",
+    "onvif": "^0.6.4",
     "simple-encryptor": "^4.0.0"
   },
   "devDependencies": {
