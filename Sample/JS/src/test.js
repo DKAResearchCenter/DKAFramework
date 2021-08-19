@@ -1,23 +1,72 @@
-import DKA, {Server, Functions, Security, Database, Options} from "./../../../JS";
-import moment from "moment";
-import Nvr from "hikvision-api";
+import DKA, {Api, Server, Functions, Security, Database, Options} from "./../../../JS";
 
 
-(async() => {
-    new Database.MariaDB({
-        host : "localhost",
-        user : "developer",
-        password : "Cyberhack2010",
-        database : "tes",
-        autoBackup : true,
-    }).Read('test')
-        .then(async (resolve) => {
-            console.log(resolve)
-        })
-        .catch(async (err) => {
-            console.log(err)
-        })
-})()
+    Server({
+        serverPort : 8002,
+        app : async (app, opts, next) => {
+
+            
+            
+            new Database.Maria
+            app.io.on('connection', function (io) {
+                console.log(io.id)
+                io.on('browser_state', function (e){
+                    console.log(e)
+                })
+
+            })
+            next()
+        }
+    })
+    /*const app = new Api.Google.Firebase({
+        apiKey: "AIzaSyA0A-Z07424Aa1ZmLXft0hCEYfdeSSuCzU",
+        authDomain: "test-203b1.firebaseapp.com",
+        projectId: "test-203b1",
+        storageBucket: "test-203b1.appspot.com",
+        messagingSenderId: "634592374511",
+        appId: "1:634592374511:web:041d23a0a4055ebc47351a",
+        measurementId: "G-TY5SLRC7C4"
+    });
+
+    app.auth().then(async(res) => {
+            res.signInWithEmailAndPassword("dhikaprivate@gmail.com", "Cyberhack2010")
+                .then((userCredential) => {
+                // Signed in
+                var user = userCredential.user;
+                console.log(user)
+                // ...
+            })
+            .catch((error) => {
+                var errorCode = error.code;
+                var errorMessage = error.message;
+                console.log(error)
+            });*/
+       /*res.createUserWithEmailAndPassword("dhikaprivate@gmail.com", "Cyberhack2010")
+           .then((userCredential) => {
+               // Signed in
+               var user = userCredential.user;
+               console.log(user.uid)
+               //
+
+           })
+           .catch((error) => {
+               console.error(error)
+               // ..
+           });*/
+
+    /*app.firestore().then(async(res) => {
+            //console.log(res)
+            res.collection('karyawan').add({
+                nama: "US",
+                usia: 24,
+                kota: "button"
+            }).then(async (res) => {
+                console.log(res.id);
+            }).catch(async (res) => {
+                console.log(res);
+            })
+        });*/
+
 
 // Create an encryptor:
 
