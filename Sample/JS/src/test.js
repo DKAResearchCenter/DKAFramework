@@ -1,22 +1,43 @@
 import DKA, {Api, Server, Functions, Security, Database, Options} from "./../../../JS";
+import ReactDOM from "react-dom";
+import React from "react";
+import { JSDOM } from "jsdom"
+    const bri = new Api.ThirdParty.Banking.BRI({
+        client_id : 'zSAyjUMqOhfZNVm9ybgKCH3BTwl8lEku',
+        client_secret : '4sTZ0bVvIODUTB6X'
+    })
 
 
-    Server({
-        serverPort : 8002,
-        app : async (app, opts, next) => {
 
-            
-            
-            new Database.Maria
-            app.io.on('connection', function (io) {
-                console.log(io.id)
-                io.on('browser_state', function (e){
-                    console.log(e)
-                })
-
+    bri.accessToken()
+        .then(async (resolve) => {
+            console.log(resolve.data)
+            await bri.briva.Create({
+                token : resolve.data.access_token,
+                requestData : {
+                    "institutionCode": "211",
+                    "brivaNo": "77777",
+                    "custCode": "1255",
+                    "nama": "yories",
+                    "amount": "20000",
+                    "keterangan": "",
+                    "expiredDate": "2022-10-29 09:57:26"
+                }
+            }).then(async (res) => {
+                console.log(res)
+            }).catch(async (error) => {
+                console.error(error.response.data.status)
             })
-            next()
-        }
+            /*await bri.getAccountInfo({
+                accountNumber : '888801000157508',
+                token : resolve.data.access_token
+            }).then(async (res) => {
+                console.log(res)
+            }).catch(async(error) => {
+                console.log(error);
+            })*/
+    }).catch(async (error) => {
+        console.error(error)
     })
     /*const app = new Api.Google.Firebase({
         apiKey: "AIzaSyA0A-Z07424Aa1ZmLXft0hCEYfdeSSuCzU",
