@@ -1,5 +1,12 @@
-import {Server, Functions, Security, Database, Options } from "./../../../JS";
+const {Server, Functions, Security, Database, Options } = require("dkaframework");
 
-(async () => {
-    await Server.Autoload();
-})();
+Server({
+    serverPort : 9211,
+    app : function (app, opts, next) {
+        app.get('/', function (request, response){
+            response.send('test');
+        })
+        next();
+
+    }
+});
