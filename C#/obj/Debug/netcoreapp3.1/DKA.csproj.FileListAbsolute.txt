@@ -1,0 +1,10 @@
+E:\PEKERJAAN\DKA\DKAFramework\C#\bin\Debug\netcoreapp3.1\DKA.deps.json
+E:\PEKERJAAN\DKA\DKAFramework\C#\bin\Debug\netcoreapp3.1\DKA.dll
+E:\PEKERJAAN\DKA\DKAFramework\C#\bin\Debug\netcoreapp3.1\DKA.pdb
+E:\PEKERJAAN\DKA\DKAFramework\C#\obj\Debug\netcoreapp3.1\DKA.csproj.AssemblyReference.cache
+E:\PEKERJAAN\DKA\DKAFramework\C#\obj\Debug\netcoreapp3.1\DKA.GeneratedMSBuildEditorConfig.editorconfig
+E:\PEKERJAAN\DKA\DKAFramework\C#\obj\Debug\netcoreapp3.1\DKA.AssemblyInfoInputs.cache
+E:\PEKERJAAN\DKA\DKAFramework\C#\obj\Debug\netcoreapp3.1\DKA.AssemblyInfo.cs
+E:\PEKERJAAN\DKA\DKAFramework\C#\obj\Debug\netcoreapp3.1\DKA.csproj.CoreCompileInputs.cache
+E:\PEKERJAAN\DKA\DKAFramework\C#\obj\Debug\netcoreapp3.1\DKA.dll
+E:\PEKERJAAN\DKA\DKAFramework\C#\obj\Debug\netcoreapp3.1\DKA.pdb
