@@ -1,0 +1,17 @@
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\bin\Debug\netcoreapp3.1\C_Cross.exe
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\bin\Debug\netcoreapp3.1\C_Cross.deps.json
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\bin\Debug\netcoreapp3.1\C_Cross.runtimeconfig.json
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\bin\Debug\netcoreapp3.1\C_Cross.runtimeconfig.dev.json
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\bin\Debug\netcoreapp3.1\C_Cross.dll
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\bin\Debug\netcoreapp3.1\C_Cross.pdb
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\bin\Debug\netcoreapp3.1\DKA.dll
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\bin\Debug\netcoreapp3.1\DKA.pdb
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\obj\Debug\netcoreapp3.1\C_Cross.csproj.AssemblyReference.cache
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\obj\Debug\netcoreapp3.1\C_Cross.GeneratedMSBuildEditorConfig.editorconfig
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\obj\Debug\netcoreapp3.1\C_Cross.AssemblyInfoInputs.cache
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\obj\Debug\netcoreapp3.1\C_Cross.AssemblyInfo.cs
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\obj\Debug\netcoreapp3.1\C_Cross.csproj.CoreCompileInputs.cache
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\obj\Debug\netcoreapp3.1\C_Cross.csproj.CopyComplete
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\obj\Debug\netcoreapp3.1\C_Cross.dll
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\obj\Debug\netcoreapp3.1\C_Cross.pdb
+E:\PEKERJAAN\DKA\DKAFramework\Test\C_Cross\obj\Debug\netcoreapp3.1\C_Cross.genruntimeconfig.cache

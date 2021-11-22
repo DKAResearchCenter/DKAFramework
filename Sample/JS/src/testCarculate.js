@@ -1,6 +1,0 @@
-
-const carculate = {
-    Promo : {
-        
-    }
-}

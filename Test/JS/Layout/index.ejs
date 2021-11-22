@@ -1,0 +1,13 @@
+<html>
+<body>
+<div style="height: 100px; width: 500px">
+<canvas id="canvas"></canvas>
+</div>
+</body>
+<script src="./mpeg.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script type="text/javascript">
+    player = new JSMpeg.Player('ws://localhost:9999', {
+      canvas: document.getElementById('canvas') // Canvas should be a canvas DOM element
+    })
+</script>
+</html>

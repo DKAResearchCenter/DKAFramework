@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dkaframework": {
+      "commandName": "Project",
+      "workingDirectory": "I:\\PEKERJAAN\\DKA\\DKAFramework\\C#"
+    }
+  }
+}
