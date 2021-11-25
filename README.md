@@ -4,11 +4,11 @@
 
 ## Status
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YovanggaAnandhika/DKAFramework)
-![GitHub contributors](https://img.shields.io/github/contributors/YovanggaAnandhika/DKAFramework)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YovanggaAnandhika/DKAFramework)
-![GitHub issues](https://img.shields.io/github/issues/YovanggaAnandhika/DKAFramework)
-![GitHub repo size](https://img.shields.io/github/repo-size/YovanggaAnandhika/DKAFramework)
+![GitHub last commit](https://img.shields.io/github/last-commit/DKAResearchCenter/DKAFramework)
+![GitHub contributors](https://img.shields.io/github/contributors/DKAResearchCenter/DKAFramework)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/DKAResearchCenter/DKAFramework)
+![GitHub issues](https://img.shields.io/github/issues/DKAResearchCenter/DKAFramework)
+![GitHub repo size](https://img.shields.io/github/repo-size/DKAResearchCenter/DKAFramework)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
@@ -37,27 +37,27 @@ good one.
 ### Directory Description
 
 Root Project <br>
-├── [ASP](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/ASP/README.md)
+├── [ASP](https://github.com/DKAResearchCenter/DKAFramework/blob/master/ASP/README.md)
 The ASP Library Framework <br>
-├── [ANDROID](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/Android/README.md)
+├── [ANDROID](https://github.com/DKAResearchCenter/DKAFramework/blob/master/Android/README.md)
 Android Kotlin Library Module 'DKAFramework-core' <br>
-├── [BASH](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/BASH/README.md)
+├── [BASH](https://github.com/DKAResearchCenter/DKAFramework/blob/master/BASH/README.md)
 Add Bash Setup Linux-86, Linux-64, and Windows86-64x <br>
-├── [C#](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/C#/README.md)
+├── [C#](https://github.com/DKAResearchCenter/DKAFramework/blob/master/C#/README.md)
 Net. Framework C# Library <br>
-├── [GO](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/GO/README.md)
+├── [GO](https://github.com/DKAResearchCenter/DKAFramework/blob/master/GO/README.md)
 Go Language (Comming Soon) <br>
 ├── [JS](https://github.com/DKAResearchCenter/DKAJSFramework/blob/master/README.md)
 JS Yarn Module Library (Ready On Yarn and NPM) <br>
-├── [PHP](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/PHP/README.md)
+├── [PHP](https://github.com/DKAResearchCenter/DKAFramework/blob/master/PHP/README.md)
 PHP DKA Framework (Building Status) <br>
-├── [PYTHON](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/PYTHON/README.md)
+├── [PYTHON](https://github.com/DKAResearchCenter/DKAFramework/blob/master/PYTHON/README.md)
 Lite Framework Mix Artificial Intelegent (Comming Soon) <br>
-├── [PERL](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/PERL/README.md)
+├── [PERL](https://github.com/DKAResearchCenter/DKAFramework/blob/master/PERL/README.md)
 Perl CPAN Module (Comming Soon) <br>
-├── [RUBY](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/RUBY/README.md)
+├── [RUBY](https://github.com/DKAResearchCenter/DKAFramework/blob/master/RUBY/README.md)
 Ruby Framework <br>
-├── [SQL](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/SQL/README.md)
+├── [SQL](https://github.com/DKAResearchCenter/DKAFramework/blob/master/SQL/README.md)
 Framework ASP Languange <br>
 └── README.md
 
@@ -106,12 +106,12 @@ XML                      4 mins              ░░░░░░░░░░░�
 
 ## Installing DKA Framework
 
-Read About [Installation Guide](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/INSTALL.md) On the Website
+Read About [Installation Guide](https://github.com/DKAResearchCenter/DKAFramework/blob/master/INSTALL.md) On the Website
 Us For More Information.
 
 ## Use DKA Framework
 
-Read About [How To Use](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/USAGE.md) For How To Details Use.
+Read About [How To Use](https://github.com/DKAResearchCenter/DKAFramework/blob/master/USAGE.md) For How To Details Use.
 
 ## About Copyright
 
@@ -119,45 +119,14 @@ Read About [How To Use](https://github.com/YovanggaAnandhika/DKAFramework/blob/m
 <b>"This software is protected by law. You are prohibited from copying, modifying or distributing without permission
 from the author" <br>
 
-Read About : </b>[LICENCE](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/LICENSE.md)
+Read About : </b>[LICENCE](https://github.com/DKAResearchCenter/DKAFramework/blob/master/LICENSE.md)
 
 ## Team
 
-[@yovangga](https://github.com/yovanggaanandhika) | [@froggie-tech](https://github.com/froggie-tech)
+[@yovangga](https://github.com/yovanggaanandhika) | [@DKAResearchCenter](https://github.com/DKAResearchCenter)
 --- | ---
-<img align="center" src="https://avatars.githubusercontent.com/yovanggaanandhika?s=100&v=1" width="100" height="100" /> | <img align="center" src="https://avatars.githubusercontent.com/froggie-tech?s" width="100" height="100">
-Full Stack Development | The Half Programming
-
-<!-- <table border="0">
-<tr>
-    <td><img width="800" src="https://media.istockphoto.com/vectors/default-profile-picture-avatar-photo-placeholder-vector-illustration-vector-id1223671392?k=6&m=1223671392&s=612x612&w=0&h=NGxdexflb9EyQchqjQP0m6wYucJBYLfu46KCLNMHZYM=" alt="Yovangga Anandhika"> </td>
-    <td>
-        <h3>Muhammad Arfan</h3>
-        <b>A Analysis System</b> From Indonesia.
-        Mendalami Bidang Conceptor, FLowcart, IO Proses
-        <br/><br/>
-    </td>
-</tr>
- <tr>
-    <td><img width="800" src="https://dkaresearchcenter.com/wp-content/uploads/2020/06/FB_IMG_1583407496659.jpg" alt="Yovangga Anandhika"> </td>
-    <td>
-        <h3>Yovangga Anandhika</h3>
-        <b>A Full Stack Developer Software Engginering</b> From Indonesia.
-        Mendalami Bidang Pemegraman Komputer, Seorang Pendiri Komunitas Startup <b>DKA Research Center</b>
-        dan Aktif Mengerjakan Penelitian dan Pekerjaan Berbasis Inovasi Digital. Menguasai Lebih Dari 18 Bahasa Program Komputer.
-        <br/><br/>
-    </td>
- </tr>
-<tr>
-    <td><img width="800" src="https://media.istockphoto.com/vectors/default-profile-picture-avatar-photo-placeholder-vector-illustration-vector-id1223671392?k=6&m=1223671392&s=612x612&w=0&h=NGxdexflb9EyQchqjQP0m6wYucJBYLfu46KCLNMHZYM=" alt="Yovangga Anandhika"> </td>
-    <td>
-        <h3>Muhammad Yusuf</h3>
-        <b>A Half Programming</b> From Indonesia.
-        Mendalami Bidang Android Development, Layout Design, Kotlin
-        <br/><br/>
-    </td>
-</tr>
-</table> -->
+<img align="center" src="https://avatars.githubusercontent.com/yovanggaanandhika?s=100&v=1" width="100" height="100" /> | <img align="center" src="https://avatars.githubusercontent.com/DKAResearchCenter?s" width="100" height="100">
+Full Stack Development | DKA Research Center
 
 
 ## Kredit
