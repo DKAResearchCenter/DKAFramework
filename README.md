@@ -47,7 +47,7 @@ Add Bash Setup Linux-86, Linux-64, and Windows86-64x <br>
 Net. Framework C# Library <br>
 ├── [GO](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/GO/README.md)
 Go Language (Comming Soon) <br>
-├── [JS](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/JS/README.md)
+├── [JS](https://github.com/DKAResearchCenter/DKAJSFramework/blob/master/JS/README.md)
 JS Yarn Module Library (Ready On Yarn and NPM) <br>
 ├── [PHP](https://github.com/YovanggaAnandhika/DKAFramework/blob/master/PHP/README.md)
 PHP DKA Framework (Building Status) <br>
