@@ -49,7 +49,7 @@ Net. Framework C# Library <br>
 Go Language (Comming Soon) <br>
 ├── [JS](https://github.com/DKAResearchCenter/DKAJSFramework/blob/master/README.md)
 JS Yarn Module Library (Ready On Yarn and NPM) <br>
-├── [PHP](https://github.com/DKAResearchCenter/DKAFramework/blob/master/PHP/README.md)
+├── [PHP](https://github.com/DKAResearchCenter/DKAPHPFramework/blob/master/README.md)
 PHP DKA Framework (Dev Testing) <br>
 ├── [PYTHON](https://github.com/DKAResearchCenter/DKAPHPFramework/blob/master/PYTHON/README.md)
 Lite Framework Mix Artificial Intelegent (Comming Soon) <br>
