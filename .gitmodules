@@ -1,3 +1,6 @@
 [submodule "JS"]
 	path = JS
 	url = https://github.com/DKAResearchCenter/DKAJSFramework.git
+[submodule "PHP"]
+	path = PHP
+	url = https://github.com/DKAResearchCenter/DKAPHPFramework.git
