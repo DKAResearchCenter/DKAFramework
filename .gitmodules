@@ -4,3 +4,6 @@
 [submodule "PHP"]
 	path = PHP
 	url = https://github.com/DKAResearchCenter/DKAPHPFramework.git
+[submodule "CSharp"]
+	path = CSharp
+	url = https://github.com/DKAResearchCenter/DKACSharpFramework.git
