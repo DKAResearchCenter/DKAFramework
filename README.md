@@ -39,7 +39,7 @@ good one.
 Root Project <br>
 ├── [ASP](https://github.com/DKAResearchCenter/DKAFramework/blob/master/ASP/README.md)
 The ASP Library Framework <br>
-├── [ANDROID](https://github.com/DKAResearchCenter/DKAFramework/blob/master/Android/README.md)
+├── [ANDROID](https://github.com/DKAResearchCenter/DKAFramework/blob/master/ANDROID/README.md)
 Android Kotlin Library Module 'DKAFramework-core' <br>
 ├── [BASH](https://github.com/DKAResearchCenter/DKAFramework/blob/master/BASH/README.md)
 Add Bash Setup Linux-86, Linux-64, and Windows86-64x <br>
