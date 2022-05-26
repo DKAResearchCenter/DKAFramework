@@ -7,3 +7,6 @@
 [submodule "CSharp"]
 	path = CSharp
 	url = https://github.com/DKAResearchCenter/DKACSharpFramework.git
+[submodule "ANDROID"]
+	path = ANDROID
+	url = https://github.com/DKAResearchCenter/DKAAndroidFramework.git
